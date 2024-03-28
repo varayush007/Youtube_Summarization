@@ -4,3 +4,4 @@ streamlit==1.22.0
 youtube-transcript-api
 openai
 protobuf~=3.19.0
+tiktoken
