@@ -25,7 +25,8 @@ It harnesses the power of LangChain and Google's Palm LLM to understand and cond
 
 ## Demo
 
-![Demo GIF](demo.gif)
+![image](https://github.com/varayush007/Youtube_Summarization/assets/108609442/e661e127-c479-42f2-907a-2ed443a76445)
+
 
 ## Project Structure
 
